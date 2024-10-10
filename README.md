@@ -1,0 +1,1 @@
+# plugins-posts-columns-manager
